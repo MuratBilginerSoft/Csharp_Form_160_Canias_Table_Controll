@@ -1,0 +1,27 @@
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\bin\Debug\Table Controll.exe.config
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\bin\Debug\Table Controll.exe
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\bin\Debug\Table Controll.pdb
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\obj\Debug\Table Controll.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\obj\Debug\Table_Controll.Form1.resources
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\obj\Debug\Table_Controll.Properties.Resources.resources
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\obj\Debug\Table Controll.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\obj\Debug\Table Controll.exe
+C:\Users\user\Desktop\MVC Projeleri\Table Controll\Table Controll\obj\Debug\Table Controll.pdb
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\bin\Debug\Table Controll.exe.config
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.exe
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.pdb
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\bin\Debug\Table Controll.exe
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.csprojResolveAssemblyReference.cache
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\obj\Debug\Table_Controll.Form1.resources
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\obj\Debug\Table_Controll.Properties.Resources.resources
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.csproj.GenerateResource.Cache
+C:\Users\user\YandexDisk-murat.bilginer\02 - EKS\Table Controll\Table Controll\bin\Debug\Table Controll.pdb
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\bin\Debug\Table Controll.exe.config
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\bin\Debug\Table Controll.exe
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\bin\Debug\Table Controll.pdb
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.csprojResolveAssemblyReference.cache
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\obj\Debug\Table_Controll.Form1.resources
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\obj\Debug\Table_Controll.Properties.Resources.resources
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.csproj.GenerateResource.Cache
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.exe
+C:\Users\mrt_b\YandexDisk\02 - EKS\Table Controll\Table Controll\obj\Debug\Table Controll.pdb
